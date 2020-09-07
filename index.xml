@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namig Aliyev</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Namig Aliyev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0ff1305af831ce64c3f7c17b6f15b270_7108_512x512_fill_lanczos_center_2.png</url>
+      <title>Namig Aliyev</title>
+      <link>/</link>
+    </image>
+    
+  </channel>
+</rss>
